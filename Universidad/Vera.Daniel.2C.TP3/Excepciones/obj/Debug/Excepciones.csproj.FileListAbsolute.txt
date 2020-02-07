@@ -1,0 +1,10 @@
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

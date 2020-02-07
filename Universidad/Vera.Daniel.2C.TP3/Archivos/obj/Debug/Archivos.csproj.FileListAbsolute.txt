@@ -1,0 +1,14 @@
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\Tps\Tp3\Vera.Daniel.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Users\N A H U E L\Desktop\Fede\2ºC\Programacion\RecuperatoriosTP\Tp3\Vera.Daniel.2C.TP3\Archivos\obj\Debug\Archivos.pdb
